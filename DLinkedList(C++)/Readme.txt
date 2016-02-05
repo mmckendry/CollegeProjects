@@ -1,0 +1,1 @@
+A linked list data structure written in C++.
